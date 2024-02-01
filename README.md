@@ -41,3 +41,13 @@ This tool is a powerful tool that creates Discord Bots inside the tokens provide
 - Supports writing proxy lists to an external file for persistence.
 
 Remember to replace any placeholder text with actual information about how to use your script, and ensure that you comply with Discord's terms of service when using and distributing such scripts.
+
+## ⚠ Disclaimer
+
+This script is meant for educational purposes and should be used responsibly. It's essential to comply with Discord's Terms of Service and Community Guidelines when interacting with their API. Use this script at your own risk, and be aware that misuse may result in account suspension or other actions by Discord.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
