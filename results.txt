@@ -1,0 +1,35 @@
+================================================
+Bot Name: Hyber Bot 564345
+Bot Token: MTIwMjI1NTAxNDAwNjExMjI2Ng.G-Ym-f.cm0GEaLtjKVIkqKf1TjXn_DZ7s3mqDSphm_Pio
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202255014006112266&permissions=8&scope=bot+applications.commands
+================================================
+================================================
+Bot Name: Hyber Bot 406455
+Bot Token: MTIwMjI1NTI4MTIyNTIxNjA4MQ.GwdAqr.qZEL3kfBViNHWhgXnkDZ2PP1Q5EEQv8nmaAFRg
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202255281225216081&permissions=8&scope=bot+applications.commands
+================================================
+================================================
+Bot Name: Hyber Bot 316241
+Bot Token: MTIwMjI1NTI5MzE0NTQzNjI3MQ.GO2qsO.jd2E7ZRDq83TtBKR203qOVq2fRss4uqL3Wai-U
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202255293145436271&permissions=8&scope=bot+applications.commands
+================================================
+================================================
+Bot Name: Hyber Bot 343009
+Bot Token: MTIwMjI1NTMwMzkzMjkwNzU1MA.Gc8qtz.wGDlGaTfYbgha1PqtnjJiVT_2tOnXAf7oqbdTE
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202255303932907550&permissions=8&scope=bot+applications.commands
+================================================
+================================================
+Bot Name: Hyber Bot 206591
+Bot Token: MTIwMjI1NTMxNzAwNjgxMTE5Nw.Gs5ER4.b1qpFtQd2h-6O1PxCm3xoiATrh_hlB7BzjCSu8
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202255317006811197&permissions=8&scope=bot+applications.commands
+================================================
+================================================
+Bot Name: Hyber Bot 260190
+Bot Token: MTIwMjI1NTMyODk0Nzk5NDY5NQ.GmMqR8.mVXWgRxURtuarZ1zTfAZ4iMBIt0Il7RKevlJzQ
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202255328947994695&permissions=8&scope=bot+applications.commands
+================================================
+================================================
+Bot Name: Hyber Bot 779093
+Bot Token: MTIwMjI2MzkzMzgzMTA5ODM4OA.GmKZ88.PCz_sQvhFtIjnQ1XS_U9WdA3gYMk00cTlcNEgo
+Invite URL: https://discord.com/api/oauth2/authorize?client_id=1202263933831098388&permissions=8&scope=bot+applications.commands
+================================================
